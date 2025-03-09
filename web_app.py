@@ -205,7 +205,7 @@ def about_models():
     help.header("Our Stack.")
     # Set text and pass to sub_text function
     text = """
-    <center> <br> Welcome to the Agrobot Project. </br> </center>
+    <center> <br>Ayanfe's Agrobot Project. </br> </center>
     <center> This App is an add-on for the Larger Centralized Food Platform aimed at reducing food loss and food waste. You can either take or upload photos of your crop to use the A.I.
     </center>
     """
