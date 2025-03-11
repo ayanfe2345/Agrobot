@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-First modified on Tuesday January 4 12:36:03 2022
+First modified on Tuesday March 11 18:22:03 2025s
 
-@author: Olufemi Victor Tolulope. @osinkolu on github.
-Comments and explanations done by Olufemi Victor Tolulpe.
-@Teacher: TNIKOLIC
+@author: Adamu Ayanfeoluwa Samuel. @ayanfe2345 on github.
+Comments and explanations done by Adamu Ayanfeoluwa.
+@Teacher: Olufemi Victor Tolulope
 
 A streamlit app to call streamlit component webrtc and load a tf lite model for object detection
 """
