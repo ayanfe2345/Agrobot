@@ -2,8 +2,9 @@
 """
 Created on Tuesday March 29 03:00:00 2022
 
-@author: Olufemi Victor Tolulope. @osinkolu on github.
-Comments and explanations done by Olufemi Victor Tolulpe.
+@author: Adamu Ayanfeoluwa Samuel. @ayanfe2345 on github.
+Comments and explanations done by Adamu Ayanfeoluwa.
+@Teacher: Olufemi Victor Tolulope
 
 This settings page helps to dynamically adjust the app content based on the model selected to be used.
 

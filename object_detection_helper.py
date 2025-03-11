@@ -2,10 +2,9 @@
 """
 Created on Tuesday January 4 12:36:03 2022
 Custom Object Detection with TFlite.
-
-@author: Olufemi Victor tolulope. @osinkolu on github.
-Github repo: https://github.com/osinkolu
-
+@author: Adamu Ayanfeoluwa Samuel. @ayanfe2345 on github.
+Comments and explanations done by Adamu Ayanfeoluwa.
+@Teacher: Olufemi Victor Tolulope
 Helper script with functions redesign and saving images.
 
 Basically, This script does the heavy lifting regards making your predictions,
