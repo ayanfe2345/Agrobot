@@ -33,7 +33,7 @@ from bokeh.models import CustomJS
 from streamlit_bokeh_events import streamlit_bokeh_events
 
 # Bring in my language codes csv file
-lang_table = pd.read_csv("languages_by_victor.csv")
+lang_table = pd.read_csv("languages_by_ayanfe.csv")
 if "model_option" not in st.session_state:
     st.session_state.model_option = 'crop_disease'
 model = model_influencer(st.session_state.model_option)
