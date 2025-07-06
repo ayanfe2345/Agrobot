@@ -98,7 +98,7 @@ def expander():
         <p> Object detection functionality &#10024 </p>
         <p> The models used here are <b>tflite</b> models, the notebook & codes on how I built the A.I models from scratch are in my github repo 
         <a href= 'https://github.com/osinkolu?tab=repositories' style="color:#F26531;" target = "_blank" >here  </a>. They will be kept private until the project is completed.
-        My name is Olufemi Victor Tolulope, an ML and A.I enthusiast, feel free to reach out on
+        My name is Adamu Ayanfeoluwa, an Aspiring ML and A.I enthusiast, feel free to reach out on
         <a href = 'https://www.linkedin.com/in/olufemi-victor-tolulope/' style="color:#F26531;" target = "_blank" >LinkedIn</a>. </p>
         <p> Snapshot functionality &#128247 </p>
         <p> The webrtc snapshot functionality was shared in 
